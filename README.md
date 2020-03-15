@@ -29,6 +29,9 @@ Este repositório contém resumos úteis nas cadeiras do curso de **Engenharia I
 ## Contribuir 📩
 Caso queiram adicionar algum do vosso conteúdo, é favor de me contactar ou usar o Git devidamente.
 
+---
+
 ## Conteúdo 📑
 
 - [Git/GitHub](https://github.com/andreubita/MIEI-resumos/blob/master/Git/git.md)
+- [Haskell]((https://github.com/andreubita/MIEI-resumos/blob/master/Haskell/README.md)
