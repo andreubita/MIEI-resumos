@@ -2,7 +2,7 @@
     <img src="https://i.imgur.com/GOGaHkq.jpg" align="center" alt="MIEI">
     <br>
     <br>
-    <string><i>Resumos MIEI</i></strong>
+    <strong><i>Resumos MIEI</i></strong>
     <br>
     <br>
     <hr>
