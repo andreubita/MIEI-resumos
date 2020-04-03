@@ -54,15 +54,15 @@ Os ficheiros podem estar:
 - **Staged**: estão à espera de commit. (Apresentados a verde)
 
 ### Commit
+Para tornar um ficheiro **Modified** em **Staged**:
 ```
 $ git add <ficheiro>
 ```
-Serve para tornar um ficheiro **Modified** em **Staged**
 
+Para tornar um ficheiro **Staged** em **Modified**:
 ```
 $ git restore --staged <ficheiro>
 ```
-Serve para tornar um ficheiro **Staged** em **Modified**
 
 Para adicionar todos os ficheiros de uma vez podemos no lugar de `<ficheiro>` colocar um `.`.
 
