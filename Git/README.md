@@ -50,8 +50,8 @@ $ git status
 
 Os ficheiros podem estar:
 
-- **Modified**: não são afetados pelo commit.
-- **Staged**: estão à espera de commit.
+- **Modified**: não são afetados pelo commit. (Apresentados a vermelho)
+- **Staged**: estão à espera de commit. (Apresentados a verde)
 
 ### Commit
 ```
