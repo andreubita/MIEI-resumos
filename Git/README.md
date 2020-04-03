@@ -50,16 +50,16 @@ $ git status
 
 Os ficheiros podem estar:
 
-- **Modified**: não são afetados pelo commit. (Apresentados a vermelho)
+- **Unstaged**: não são afetados pelo commit. (Apresentados a vermelho)
 - **Staged**: estão à espera de commit. (Apresentados a verde)
 
 ### Commit
-Para tornar um ficheiro **Modified** em **Staged**:
+Para tornar um ficheiro **Unstaged** em **Staged**:
 ```
 $ git add <ficheiro>
 ```
 
-Para tornar um ficheiro **Staged** em **Modified**:
+Para tornar um ficheiro **Staged** em **Unstaged**:
 ```
 $ git restore --staged <ficheiro>
 ```
