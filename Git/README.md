@@ -57,12 +57,12 @@ Os ficheiros podem estar:
 ```
 $ git add <ficheiro>
 ```
-Serve para turnar um ficheiro **Modified** em **Staged**
+Serve para tornar um ficheiro **Modified** em **Staged**
 
 ```
 $ git restore --staged <ficheiro>
 ```
-Serve para turnar um ficheiro **Staged** em **Modified**
+Serve para tornar um ficheiro **Staged** em **Modified**
 
 Para adicionar todos os ficheiros de uma vez podemos no lugar de `<ficheiro>` colocar um `.`.
 
