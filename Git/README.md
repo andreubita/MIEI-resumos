@@ -100,12 +100,6 @@ Pull server para atualizar-mos o nosso repositório local com o GitHub.
 $ git pull origin master
 ```
 
-*Nota*: Após a execução de um pull é preciso executar um fetch
-
-```
-$ git fetch origin master
-```
-
 ### Push
 Push serve enviar-mos os nossos commits para o GitHub.
 
